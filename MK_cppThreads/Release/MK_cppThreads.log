@@ -1,0 +1,9 @@
+﻿  MK_cppThreads.cpp
+e:\универ\1 магистратура\1 семестр\пппс\лабы монте-карло\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(29): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+e:\универ\1 магистратура\1 семестр\пппс\лабы монте-карло\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(84): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 221 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MK_cppThreads.vcxproj -> E:\универ\1 Магистратура\1 семестр\ПППС\лабы Монте-Карло\MK_cppThreads\Release\MK_cppThreads.exe

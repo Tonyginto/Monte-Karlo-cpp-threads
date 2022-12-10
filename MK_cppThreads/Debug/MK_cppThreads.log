@@ -1,0 +1,8 @@
+﻿  MK_cppThreads.cpp
+c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(15): error C2365: jn: переопределение; предыдущим определением было "функция"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(983): note:  см. объявление "jn"
+c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(41): error C2065: ar: необъявленный идентификатор
+c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(45): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(67): error C2664: "float RndKoeff(int,int,int)": невозможно преобразовать аргумент 2 из "double (__cdecl *)(int,double)" в "int"
+  c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(67): note: Не существует контекста, в котором такое преобразование возможно
+c:\users\tony\source\repos\mk_cppthreads\mk_cppthreads\mk_cppthreads.cpp(78): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
